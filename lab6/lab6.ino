@@ -1,7 +1,8 @@
-//Libraries
+// นำเข้า Libraries
 #include <SPI.h>
 #include <MFRC522.h>
 
+// กำหนด pin ที่ต้องใช้
 #define SS_PIN 21
 #define RST_PIN 0
 
